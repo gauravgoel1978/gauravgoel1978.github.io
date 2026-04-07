@@ -1,6 +1,5 @@
 ---
-layout: page
-title: About Me
+title: Gaurav Goel
 subtitle: Principal Software Engineer | AI & Networking Architect
 ---
 
@@ -8,7 +7,7 @@ subtitle: Principal Software Engineer | AI & Networking Architect
   <img src="/assets/img/gaurav-avatar.png" alt="Gaurav Goel" class="about-photo" />
   <div class="about-intro-text">
     <h2>Gaurav Goel</h2>
-    <p class="about-tagline">📍 Bengaluru, India &nbsp;|&nbsp; ✉️ jobs.gauravgoel@gmail.com &nbsp;|&nbsp; 📞 +91-9686571440</p>
+    <p class="about-tagline"> Bengaluru, India &nbsp;|&nbsp; ✉️ jobs.gauravgoel@gmail.com &nbsp;|&nbsp; 📞 +91-9686571440</p>
     <p>
       Principal Software Engineer and Technology Leader with <strong>21+ years</strong> of experience across telecom networking, automation, and Generative AI. Proven track record of leading large-scale customer deployments, architecting carrier-grade systems, and driving AI-powered automation that reduced operational effort by up to <strong>40%</strong>. Currently pursuing a <strong>Doctorate in Business with Generative AI</strong>, focusing on enterprise AI adoption and strategy.
     </p>
