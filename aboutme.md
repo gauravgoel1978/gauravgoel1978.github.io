@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Gaurav Goel
 subtitle: Principal Software Engineer | AI & Networking Architect
 ---
