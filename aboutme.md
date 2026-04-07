@@ -17,11 +17,11 @@ subtitle: Principal Software Engineer | AI & Networking Architect
 
 ---
 
-## 🎯 Core Competencies
+## Core Competencies
 
 <div class="skills-grid">
   <div class="skill-category">
-    <h4>🤝 Leadership & Strategy</h4>
+    <h4> Leadership & Strategy</h4>
     <ul>
       <li>Technical Leadership & Customer Engagement</li>
       <li>AI Strategy & Use-case Qualification</li>
@@ -30,7 +30,7 @@ subtitle: Principal Software Engineer | AI & Networking Architect
     </ul>
   </div>
   <div class="skill-category">
-    <h4>🌐 Networking & Protocols</h4>
+    <h4> Networking & Protocols</h4>
     <ul>
       <li>BGP, MPLS, OSPF, IS-IS, EVPN</li>
       <li>RSVP, LDP, Segment Routing</li>
@@ -39,7 +39,7 @@ subtitle: Principal Software Engineer | AI & Networking Architect
     </ul>
   </div>
   <div class="skill-category">
-    <h4>🧠 Generative AI & ML</h4>
+    <h4> Generative AI & ML</h4>
     <ul>
       <li>RAG, Context Engineering, MCP Servers</li>
       <li>CNN, Transformers, Transfer Learning</li>
@@ -48,7 +48,7 @@ subtitle: Principal Software Engineer | AI & Networking Architect
     </ul>
   </div>
   <div class="skill-category">
-    <h4>⚙️ Automation & Programming</h4>
+    <h4> Automation & Programming</h4>
     <ul>
       <li>Python, NumPy, Pandas</li>
       <li>Robot Framework, Test Automation</li>
@@ -60,7 +60,7 @@ subtitle: Principal Software Engineer | AI & Networking Architect
 
 ---
 
-## 🏆 Certifications
+##  Certifications
 
 <div class="cert-badges">
   <span class="cert-badge">JNCIP-SP</span>
@@ -72,7 +72,7 @@ subtitle: Principal Software Engineer | AI & Networking Architect
 
 ---
 
-## 🎓 Education
+## Education
 
 | Degree | Institution | Year |
 |--------|-------------|------|
@@ -83,11 +83,11 @@ subtitle: Principal Software Engineer | AI & Networking Architect
 
 ---
 
-## 🌟 Key Achievements
+## Key Achievements
 
-- 🏅 **$28M Comcast deployment** — Led technical delivery across MX and PTX platforms  
-- 🏅 **$20M Telecom Egypt program** — End-to-end carrier-grade network deployment  
-- 🏅 **40% automation uplift** — Architected AI-driven automation frameworks for scale testing  
-- 🏅 **60% debug effort reduction** — Deployed Generative AI-based MCP debugging solution  
-- 🏅 **TL9000 Certified** — 0 non-conformances in external quality audit  
-- 🏅 **Tier-1 customer delivery** — Google, BT, Comcast, Telecom Egypt — global service providers  
+- **$28M Comcast deployment** — Led technical delivery across MX and PTX platforms  
+- **$20M Telecom Egypt program** — End-to-end carrier-grade network deployment  
+- **40% automation uplift** — Architected AI-driven automation frameworks for scale testing  
+- **60% debug effort reduction** — Deployed Generative AI-based MCP debugging solution  
+- **TL9000 Certified** — 0 non-conformances in external quality audit  
+- **Tier-1 customer delivery** — Google, BT, Comcast, Telecom Egypt — global service providers  
