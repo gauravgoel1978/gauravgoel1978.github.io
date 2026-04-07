@@ -30,7 +30,7 @@ subtitle: Let's connect and build something great
     <div class="contact-card">
       <div class="contact-icon">🔗</div>
       <h4>LinkedIn</h4>
-      <a href="https://linkedin.com/in/gaurav-goel-networking" target="_blank">Connect on LinkedIn</a>
+      <a href="https://www.linkedin.com/in/gauravgoeljobs/" target="_blank">Connect on LinkedIn</a>
     </div>
 
     <div class="contact-card">
