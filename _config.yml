@@ -1,0 +1,129 @@
+###########################################################
+### Gaurav Goel — Personal Professional Website
+### Principal Software Engineer | AI & Networking Expert
+###########################################################
+
+############################
+# --- Required options --- #
+############################
+
+title: Gaurav Goel
+author: Gaurav Goel
+
+###############################################
+# --- Navigation bar links --- #
+###############################################
+
+navbar-links:
+  About Me: "aboutme"
+  Experience: "experience"
+  Blog: ""
+  Contact: "contact"
+
+################
+# --- Logo --- #
+################
+
+avatar: "/assets/img/gaurav-avatar.png"
+round-avatar: true
+
+#####################################
+# --- Footer social media links --- #
+#####################################
+
+social-network-links:
+  email: "jobs.gauravgoel@gmail.com"
+  linkedin: "in/gaurav-goel-networking"
+  github: gauravgoel1978
+
+rss-description: Insights on AI, Networking, and Technology Leadership by Gaurav Goel
+
+###########################
+# --- General options --- #
+###########################
+
+share-links-active:
+  twitter: false
+  facebook: false
+  linkedin: true
+
+url-pretty: "gauravgoel1978.github.io"
+
+title-on-all-pages: true
+
+excerpt_length: 60
+feed_show_excerpt: true
+feed_show_tags: true
+post_search: true
+edit_page_button: false
+navbar-var-length: true
+
+keywords: "AI, Machine Learning, Networking, BGP, MPLS, Principal Engineer, Juniper, HPE, Generative AI, RAG"
+
+######################################
+# --- Colours / professional tech theme --- #
+######################################
+
+page-col: "#F8FAFC"
+text-col: "#1E293B"
+link-col: "#0D9488"
+hover-col: "#0F766E"
+navbar-col: "#0F172A"
+navbar-text-col: "#E2E8F0"
+navbar-border-col: "#1E293B"
+footer-col: "#0F172A"
+footer-text-col: "#94A3B8"
+footer-link-col: "#38BDF8"
+footer-hover-col: "#0D9488"
+
+# Custom CSS for additional styling
+site-css:
+  - "/assets/css/custom.css"
+
+################
+# --- Misc --- #
+################
+
+date_format: "%B %-d, %Y"
+
+timezone: "Asia/Kolkata"
+markdown: kramdown
+highlighter: rouge
+permalink: /:year-:month-:day-:title/
+paginate: 5
+
+kramdown:
+  input: GFM
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: false
+      social-share: true
+  -
+    scope:
+      path: ""
+    values:
+      layout: "page"
+
+exclude:
+  - CHANGELOG.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - screenshot.png
+  - docs/
+  - Appraisals/
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Beautiful Jekyll / Dean Attali
+# 2fc73a3a967e97599c9763d05e564189
