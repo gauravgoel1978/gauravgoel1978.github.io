@@ -5,7 +5,7 @@ subtitle: Principal Software Engineer | AI & Networking Architect
 ---
 
 <div class="about-header">
-  <img src="/assets/img/gaurav-avatar.png" alt="Gaurav Goel" class="about-photo" />
+  <img src="/assets/img/gaurav_goel.jpg" alt="Gaurav Goel" class="about-photo" />
   <div class="about-intro-text">
     <h2>Gaurav Goel</h2>
     <p class="about-tagline"> Bengaluru, India &nbsp;|&nbsp; ✉️ jobs.gauravgoel@gmail.com &nbsp;|&nbsp; 📞 +91-9686571440</p>
